@@ -26,4 +26,4 @@ dist-ssr
 
 # Env
 
-.env
+/src/components/PostArticle/ModalPost
